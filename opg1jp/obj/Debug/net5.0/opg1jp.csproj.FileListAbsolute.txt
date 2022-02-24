@@ -1,0 +1,12 @@
+C:\Users\jens6\source\repos\opg1jp\bin\Debug\net5.0\opg1jp.deps.json
+C:\Users\jens6\source\repos\opg1jp\bin\Debug\net5.0\opg1jp.dll
+C:\Users\jens6\source\repos\opg1jp\bin\Debug\net5.0\ref\opg1jp.dll
+C:\Users\jens6\source\repos\opg1jp\bin\Debug\net5.0\opg1jp.pdb
+C:\Users\jens6\source\repos\opg1jp\obj\Debug\net5.0\opg1jp.csproj.AssemblyReference.cache
+C:\Users\jens6\source\repos\opg1jp\obj\Debug\net5.0\opg1jp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jens6\source\repos\opg1jp\obj\Debug\net5.0\opg1jp.AssemblyInfoInputs.cache
+C:\Users\jens6\source\repos\opg1jp\obj\Debug\net5.0\opg1jp.AssemblyInfo.cs
+C:\Users\jens6\source\repos\opg1jp\obj\Debug\net5.0\opg1jp.csproj.CoreCompileInputs.cache
+C:\Users\jens6\source\repos\opg1jp\obj\Debug\net5.0\opg1jp.dll
+C:\Users\jens6\source\repos\opg1jp\obj\Debug\net5.0\ref\opg1jp.dll
+C:\Users\jens6\source\repos\opg1jp\obj\Debug\net5.0\opg1jp.pdb
